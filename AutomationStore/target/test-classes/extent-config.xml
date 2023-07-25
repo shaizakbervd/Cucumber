@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<extentreports>
+    <configuration>
+
+        <!-- report theme -->
+        <!-- STANDARD, DARK -->
+        <theme>DARK</theme>
+
+        <!-- document encoding -->
+        <!-- defaults to UTF-8 -->
+        <encoding>UTF-8</encoding>
+
+
+        <thumbnailForBase64>true</thumbnailForBase64>
+
+        <!-- title of the document -->
+        <documentTitle>SwagLabs</documentTitle>
+
+        <!-- report name - displayed at top-nav -->
+        <reportName>Cucumber</reportName>
+
+
+        <!-- custom javascript -->
+        <scripts>
+            <![CDATA[
+        $(document).ready(function() {
+
+        });
+      ]]>
+        </scripts>
+
+        <!-- custom styles -->
+        <styles>
+            <![CDATA[
+
+      ]]>
+        </styles>
+
+    </configuration>
+</extentreports>

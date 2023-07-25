@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="https://maven.apache.org/surefire/maven-surefire-plugin/xsd/surefire-test-report-3.0.xsd" version="3.0" name="TestSuite" time="42.588" tests="4" errors="0" skipped="0" failures="0">
+  <properties>
+    <property name="sun.desktop" value="gnome"/>
+    <property name="awt.toolkit" value="sun.awt.X11.XToolkit"/>
+    <property name="file.encoding.pkg" value="sun.io"/>
+    <property name="java.specification.version" value="1.8"/>
+    <property name="sun.cpu.isalist" value=""/>
+    <property name="sun.jnu.encoding" value="UTF-8"/>
+    <property name="java.class.path" value="/home/vend/IdeaProjects/AutomationStore/target/test-classes:/home/vend/IdeaProjects/AutomationStore/target/classes:/home/vend/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/vend/.m2/repository/io/cucumber/cucumber-java/7.2.3/cucumber-java-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/cucumber-core/7.2.3/cucumber-core-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/cucumber-gherkin/7.2.3/cucumber-gherkin-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.2.3/cucumber-gherkin-messages-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/messages/17.1.1/messages-17.1.1.jar:/home/vend/.m2/repository/io/cucumber/tag-expressions/4.1.0/tag-expressions-4.1.0.jar:/home/vend/.m2/repository/io/cucumber/cucumber-expressions/15.0.1/cucumber-expressions-15.0.1.jar:/home/vend/.m2/repository/io/cucumber/datatable/7.2.3/datatable-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/cucumber-plugin/7.2.3/cucumber-plugin-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/docstring/7.2.3/docstring-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/html-formatter/17.0.0/html-formatter-17.0.0.jar:/home/vend/.m2/repository/io/cucumber/ci-environment/8.1.0/ci-environment-8.1.0.jar:/home/vend/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/vend/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/vend/.m2/repository/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar:/home/vend/.m2/repository/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar:/home/vend/.m2/repository/tech/grasshopper/extentreports-cucumber7-adapter/1.2.0/extentreports-cucumber7-adapter-1.2.0.jar:/home/vend/.m2/repository/tech/grasshopper/extent-pdf-report/1.7.4/extent-pdf-report-1.7.4.jar:/home/vend/.m2/repository/tech/grasshopper/cucumber-pdf-report/2.2.4/cucumber-pdf-report-2.2.4.jar:/home/vend/.m2/repository/org/apache/pdfbox/pdfbox/2.0.22/pdfbox-2.0.22.jar:/home/vend/.m2/repository/org/apache/pdfbox/fontbox/2.0.22/fontbox-2.0.22.jar:/home/vend/.m2/repository/org/knowm/xchart/xchart/3.8.0/xchart-3.8.0.jar:/home/vend/.m2/repository/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.jar:/home/vend/.m2/repository/de/rototor/pdfbox/graphics2d/0.30/graphics2d-0.30.jar:/home/vend/.m2/repository/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.jar:/home/vend/.m2/repository/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar:/home/vend/.m2/repository/tech/grasshopper/table-layout/1.2.0/table-layout-1.2.0.jar:/home/vend/.m2/repository/org/jsoup/jsoup/1.13.1/jsoup-1.13.1.jar:/home/vend/.m2/repository/com/aventstack/klov-reporter/5.0.9/klov-reporter-5.0.9.jar:/home/vend/.m2/repository/org/mongodb/mongodb-driver/3.6.4/mongodb-driver-3.6.4.jar:/home/vend/.m2/repository/org/mongodb/mongodb-driver-core/3.6.4/mongodb-driver-core-3.6.4.jar:/home/vend/.m2/repository/org/mongodb/bson/3.6.4/bson-3.6.4.jar:/home/vend/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/vend/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/home/vend/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/vend/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/home/vend/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/home/vend/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.0/htmlextentreporter-1.0.0.jar:/home/vend/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/home/vend/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/home/vend/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/home/vend/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/home/vend/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/home/vend/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/home/vend/.m2/repository/io/cucumber/cucumber-picocontainer/7.2.3/cucumber-picocontainer-7.2.3.jar:/home/vend/.m2/repository/org/picocontainer/picocontainer/2.15/picocontainer-2.15.jar:/home/vend/.m2/repository/io/cucumber/cucumber-testng/7.2.3/cucumber-testng-7.2.3.jar:/home/vend/.m2/repository/org/testng/testng/7.4.0/testng-7.4.0.jar:/home/vend/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/home/vend/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-java/4.1.1/selenium-java-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-api/4.1.1/selenium-api-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.1.1/selenium-chrome-driver-4.1.1.jar:/home/vend/.m2/repository/com/google/auto/service/auto-service-annotations/1.0.1/auto-service-annotations-1.0.1.jar:/home/vend/.m2/repository/com/google/auto/service/auto-service/1.0.1/auto-service-1.0.1.jar:/home/vend/.m2/repository/com/google/auto/auto-common/1.2/auto-common-1.2.jar:/home/vend/.m2/repository/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/vend/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/vend/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/vend/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/vend/.m2/repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar:/home/vend/.m2/repository/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar:/home/vend/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.1.1/selenium-chromium-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-json/4.1.1/selenium-json-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.1.1/selenium-devtools-v85-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v94/4.1.1/selenium-devtools-v94-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v95/4.1.1/selenium-devtools-v95-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v96/4.1.1/selenium-devtools-v96-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.1.1/selenium-edge-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.1.1/selenium-firefox-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.1.1/selenium-firefox-xpi-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.1.1/selenium-ie-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/4.1.1/selenium-opera-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.1.1/selenium-remote-driver-4.1.1.jar:/home/vend/.m2/repository/io/netty/netty-buffer/4.1.70.Final/netty-buffer-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-codec-http/4.1.70.Final/netty-codec-http-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-codec/4.1.70.Final/netty-codec-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-handler/4.1.70.Final/netty-handler-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-common/4.1.70.Final/netty-common-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.70.Final/netty-transport-classes-epoll-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.70.Final/netty-transport-classes-kqueue-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.70.Final/netty-transport-native-unix-common-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport/4.1.70.Final/netty-transport-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-resolver/4.1.70.Final/netty-resolver-4.1.70.Final.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-api/1.9.1/opentelemetry-api-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-context/1.9.1/opentelemetry-context-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.9.1/opentelemetry-exporter-logging-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.9.1-alpha/opentelemetry-sdk-metrics-1.9.1-alpha.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.9.1-alpha/opentelemetry-sdk-logs-1.9.1-alpha.jar:/home/vend/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.0/jackson-databind-2.13.0.jar:/home/vend/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.0/jackson-annotations-2.13.0.jar:/home/vend/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.0/jackson-core-2.13.0.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.9.1/opentelemetry-sdk-common-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.9.1/opentelemetry-sdk-extension-autoconfigure-spi-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.9.1-alpha/opentelemetry-sdk-extension-autoconfigure-1.9.1-alpha.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.9.1/opentelemetry-sdk-trace-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-api-metrics/1.9.1-alpha/opentelemetry-api-metrics-1.9.1-alpha.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.9.1/opentelemetry-sdk-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.9.1-alpha/opentelemetry-semconv-1.9.1-alpha.jar:/home/vend/.m2/repository/io/ous/jtoml/2.0.0/jtoml-2.0.0.jar:/home/vend/.m2/repository/net/bytebuddy/byte-buddy/1.12.2/byte-buddy-1.12.2.jar:/home/vend/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/home/vend/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/home/vend/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/home/vend/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/home/vend/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/home/vend/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/home/vend/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/home/vend/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar:/home/vend/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-http/4.1.1/selenium-http-4.1.1.jar:/home/vend/.m2/repository/net/jodah/failsafe/2.4.4/failsafe-2.4.4.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.1.1/selenium-safari-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-support/4.1.1/selenium-support-4.1.1.jar:"/>
+    <property name="java.vm.vendor" value="Private Build"/>
+    <property name="sun.arch.data.model" value="64"/>
+    <property name="sun.font.fontmanager" value="sun.awt.X11FontManager"/>
+    <property name="java.vendor.url" value="http://java.oracle.com/"/>
+    <property name="user.timezone" value="Asia/Karachi"/>
+    <property name="java.vm.specification.version" value="1.8"/>
+    <property name="os.name" value="Linux"/>
+    <property name="user.country" value="US"/>
+    <property name="sun.java.launcher" value="SUN_STANDARD"/>
+    <property name="sun.boot.library.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/amd64"/>
+    <property name="sun.java.command" value="/home/vend/IdeaProjects/AutomationStore/target/surefire/surefirebooter8042687401272897839.jar /home/vend/IdeaProjects/AutomationStore/target/surefire 2023-07-25T11-28-09_706-jvmRun1 surefire6330818958532535003tmp surefire_03574514858685226525tmp"/>
+    <property name="surefire.test.class.path" value="/home/vend/IdeaProjects/AutomationStore/target/test-classes:/home/vend/IdeaProjects/AutomationStore/target/classes:/home/vend/.m2/repository/junit/junit/3.8.1/junit-3.8.1.jar:/home/vend/.m2/repository/io/cucumber/cucumber-java/7.2.3/cucumber-java-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/cucumber-core/7.2.3/cucumber-core-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/cucumber-gherkin/7.2.3/cucumber-gherkin-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/cucumber-gherkin-messages/7.2.3/cucumber-gherkin-messages-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/messages/17.1.1/messages-17.1.1.jar:/home/vend/.m2/repository/io/cucumber/tag-expressions/4.1.0/tag-expressions-4.1.0.jar:/home/vend/.m2/repository/io/cucumber/cucumber-expressions/15.0.1/cucumber-expressions-15.0.1.jar:/home/vend/.m2/repository/io/cucumber/datatable/7.2.3/datatable-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/cucumber-plugin/7.2.3/cucumber-plugin-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/docstring/7.2.3/docstring-7.2.3.jar:/home/vend/.m2/repository/io/cucumber/html-formatter/17.0.0/html-formatter-17.0.0.jar:/home/vend/.m2/repository/io/cucumber/ci-environment/8.1.0/ci-environment-8.1.0.jar:/home/vend/.m2/repository/org/apiguardian/apiguardian-api/1.1.2/apiguardian-api-1.1.2.jar:/home/vend/.m2/repository/commons-io/commons-io/2.11.0/commons-io-2.11.0.jar:/home/vend/.m2/repository/org/apache/logging/log4j/log4j-core/2.19.0/log4j-core-2.19.0.jar:/home/vend/.m2/repository/org/apache/logging/log4j/log4j-api/2.19.0/log4j-api-2.19.0.jar:/home/vend/.m2/repository/tech/grasshopper/extentreports-cucumber7-adapter/1.2.0/extentreports-cucumber7-adapter-1.2.0.jar:/home/vend/.m2/repository/tech/grasshopper/extent-pdf-report/1.7.4/extent-pdf-report-1.7.4.jar:/home/vend/.m2/repository/tech/grasshopper/cucumber-pdf-report/2.2.4/cucumber-pdf-report-2.2.4.jar:/home/vend/.m2/repository/org/apache/pdfbox/pdfbox/2.0.22/pdfbox-2.0.22.jar:/home/vend/.m2/repository/org/apache/pdfbox/fontbox/2.0.22/fontbox-2.0.22.jar:/home/vend/.m2/repository/org/knowm/xchart/xchart/3.8.0/xchart-3.8.0.jar:/home/vend/.m2/repository/de/erichseifert/vectorgraphics2d/VectorGraphics2D/0.13/VectorGraphics2D-0.13.jar:/home/vend/.m2/repository/de/rototor/pdfbox/graphics2d/0.30/graphics2d-0.30.jar:/home/vend/.m2/repository/com/madgag/animated-gif-lib/1.4/animated-gif-lib-1.4.jar:/home/vend/.m2/repository/org/yaml/snakeyaml/1.28/snakeyaml-1.28.jar:/home/vend/.m2/repository/tech/grasshopper/table-layout/1.2.0/table-layout-1.2.0.jar:/home/vend/.m2/repository/org/jsoup/jsoup/1.13.1/jsoup-1.13.1.jar:/home/vend/.m2/repository/com/aventstack/klov-reporter/5.0.9/klov-reporter-5.0.9.jar:/home/vend/.m2/repository/org/mongodb/mongodb-driver/3.6.4/mongodb-driver-3.6.4.jar:/home/vend/.m2/repository/org/mongodb/mongodb-driver-core/3.6.4/mongodb-driver-core-3.6.4.jar:/home/vend/.m2/repository/org/mongodb/bson/3.6.4/bson-3.6.4.jar:/home/vend/.m2/repository/org/apache/httpcomponents/httpclient/4.5.13/httpclient-4.5.13.jar:/home/vend/.m2/repository/org/apache/httpcomponents/httpcore/4.4.13/httpcore-4.4.13.jar:/home/vend/.m2/repository/commons-logging/commons-logging/1.2/commons-logging-1.2.jar:/home/vend/.m2/repository/commons-codec/commons-codec/1.11/commons-codec-1.11.jar:/home/vend/.m2/repository/org/apache/httpcomponents/httpmime/4.5.13/httpmime-4.5.13.jar:/home/vend/.m2/repository/tech/grasshopper/htmlextentreporter/1.0.0/htmlextentreporter-1.0.0.jar:/home/vend/.m2/repository/com/aventstack/extentreports/5.0.9/extentreports-5.0.9.jar:/home/vend/.m2/repository/io/reactivex/rxjava3/rxjava/3.0.4/rxjava-3.0.4.jar:/home/vend/.m2/repository/org/reactivestreams/reactive-streams/1.0.3/reactive-streams-1.0.3.jar:/home/vend/.m2/repository/org/freemarker/freemarker/2.3.30/freemarker-2.3.30.jar:/home/vend/.m2/repository/org/projectlombok/lombok/1.18.12/lombok-1.18.12.jar:/home/vend/.m2/repository/com/google/code/gson/gson/2.8.6/gson-2.8.6.jar:/home/vend/.m2/repository/io/cucumber/cucumber-picocontainer/7.2.3/cucumber-picocontainer-7.2.3.jar:/home/vend/.m2/repository/org/picocontainer/picocontainer/2.15/picocontainer-2.15.jar:/home/vend/.m2/repository/io/cucumber/cucumber-testng/7.2.3/cucumber-testng-7.2.3.jar:/home/vend/.m2/repository/org/testng/testng/7.4.0/testng-7.4.0.jar:/home/vend/.m2/repository/com/beust/jcommander/1.78/jcommander-1.78.jar:/home/vend/.m2/repository/org/webjars/jquery/3.5.1/jquery-3.5.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-java/4.1.1/selenium-java-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-api/4.1.1/selenium-api-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-chrome-driver/4.1.1/selenium-chrome-driver-4.1.1.jar:/home/vend/.m2/repository/com/google/auto/service/auto-service-annotations/1.0.1/auto-service-annotations-1.0.1.jar:/home/vend/.m2/repository/com/google/auto/service/auto-service/1.0.1/auto-service-1.0.1.jar:/home/vend/.m2/repository/com/google/auto/auto-common/1.2/auto-common-1.2.jar:/home/vend/.m2/repository/com/google/guava/guava/31.0.1-jre/guava-31.0.1-jre.jar:/home/vend/.m2/repository/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar:/home/vend/.m2/repository/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar:/home/vend/.m2/repository/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar:/home/vend/.m2/repository/org/checkerframework/checker-qual/3.12.0/checker-qual-3.12.0.jar:/home/vend/.m2/repository/com/google/errorprone/error_prone_annotations/2.7.1/error_prone_annotations-2.7.1.jar:/home/vend/.m2/repository/com/google/j2objc/j2objc-annotations/1.3/j2objc-annotations-1.3.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-chromium-driver/4.1.1/selenium-chromium-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-json/4.1.1/selenium-json-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v85/4.1.1/selenium-devtools-v85-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v94/4.1.1/selenium-devtools-v94-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v95/4.1.1/selenium-devtools-v95-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-devtools-v96/4.1.1/selenium-devtools-v96-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-edge-driver/4.1.1/selenium-edge-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-firefox-driver/4.1.1/selenium-firefox-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-firefox-xpi-driver/4.1.1/selenium-firefox-xpi-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-ie-driver/4.1.1/selenium-ie-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-opera-driver/4.1.1/selenium-opera-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-remote-driver/4.1.1/selenium-remote-driver-4.1.1.jar:/home/vend/.m2/repository/io/netty/netty-buffer/4.1.70.Final/netty-buffer-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-codec-http/4.1.70.Final/netty-codec-http-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-codec/4.1.70.Final/netty-codec-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-handler/4.1.70.Final/netty-handler-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-common/4.1.70.Final/netty-common-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport-classes-epoll/4.1.70.Final/netty-transport-classes-epoll-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport-classes-kqueue/4.1.70.Final/netty-transport-classes-kqueue-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport-native-unix-common/4.1.70.Final/netty-transport-native-unix-common-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport/4.1.70.Final/netty-transport-4.1.70.Final.jar:/home/vend/.m2/repository/io/netty/netty-resolver/4.1.70.Final/netty-resolver-4.1.70.Final.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-api/1.9.1/opentelemetry-api-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-context/1.9.1/opentelemetry-context-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-exporter-logging/1.9.1/opentelemetry-exporter-logging-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-metrics/1.9.1-alpha/opentelemetry-sdk-metrics-1.9.1-alpha.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-logs/1.9.1-alpha/opentelemetry-sdk-logs-1.9.1-alpha.jar:/home/vend/.m2/repository/com/fasterxml/jackson/core/jackson-databind/2.13.0/jackson-databind-2.13.0.jar:/home/vend/.m2/repository/com/fasterxml/jackson/core/jackson-annotations/2.13.0/jackson-annotations-2.13.0.jar:/home/vend/.m2/repository/com/fasterxml/jackson/core/jackson-core/2.13.0/jackson-core-2.13.0.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-common/1.9.1/opentelemetry-sdk-common-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure-spi/1.9.1/opentelemetry-sdk-extension-autoconfigure-spi-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-extension-autoconfigure/1.9.1-alpha/opentelemetry-sdk-extension-autoconfigure-1.9.1-alpha.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk-trace/1.9.1/opentelemetry-sdk-trace-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-api-metrics/1.9.1-alpha/opentelemetry-api-metrics-1.9.1-alpha.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-sdk/1.9.1/opentelemetry-sdk-1.9.1.jar:/home/vend/.m2/repository/io/opentelemetry/opentelemetry-semconv/1.9.1-alpha/opentelemetry-semconv-1.9.1-alpha.jar:/home/vend/.m2/repository/io/ous/jtoml/2.0.0/jtoml-2.0.0.jar:/home/vend/.m2/repository/net/bytebuddy/byte-buddy/1.12.2/byte-buddy-1.12.2.jar:/home/vend/.m2/repository/org/apache/commons/commons-exec/1.3/commons-exec-1.3.jar:/home/vend/.m2/repository/org/asynchttpclient/async-http-client/2.12.3/async-http-client-2.12.3.jar:/home/vend/.m2/repository/org/asynchttpclient/async-http-client-netty-utils/2.12.3/async-http-client-netty-utils-2.12.3.jar:/home/vend/.m2/repository/io/netty/netty-codec-socks/4.1.60.Final/netty-codec-socks-4.1.60.Final.jar:/home/vend/.m2/repository/io/netty/netty-handler-proxy/4.1.60.Final/netty-handler-proxy-4.1.60.Final.jar:/home/vend/.m2/repository/io/netty/netty-transport-native-epoll/4.1.60.Final/netty-transport-native-epoll-4.1.60.Final-linux-x86_64.jar:/home/vend/.m2/repository/io/netty/netty-transport-native-kqueue/4.1.60.Final/netty-transport-native-kqueue-4.1.60.Final-osx-x86_64.jar:/home/vend/.m2/repository/com/typesafe/netty/netty-reactive-streams/2.0.4/netty-reactive-streams-2.0.4.jar:/home/vend/.m2/repository/org/slf4j/slf4j-api/1.7.30/slf4j-api-1.7.30.jar:/home/vend/.m2/repository/com/sun/activation/jakarta.activation/1.2.2/jakarta.activation-1.2.2.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-http/4.1.1/selenium-http-4.1.1.jar:/home/vend/.m2/repository/net/jodah/failsafe/2.4.4/failsafe-2.4.4.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-safari-driver/4.1.1/selenium-safari-driver-4.1.1.jar:/home/vend/.m2/repository/org/seleniumhq/selenium/selenium-support/4.1.1/selenium-support-4.1.1.jar:"/>
+    <property name="sun.cpu.endian" value="little"/>
+    <property name="user.home" value="/home/vend"/>
+    <property name="user.language" value="en"/>
+    <property name="java.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.home" value="/usr/lib/jvm/java-8-openjdk-amd64/jre"/>
+    <property name="javax.accessibility.assistive_technologies" value="org.GNOME.Accessibility.AtkWrapper"/>
+    <property name="basedir" value="/home/vend/IdeaProjects/AutomationStore"/>
+    <property name="file.separator" value="/"/>
+    <property name="line.separator" value="&#10;"/>
+    <property name="java.vm.specification.vendor" value="Oracle Corporation"/>
+    <property name="java.specification.name" value="Java Platform API Specification"/>
+    <property name="java.awt.graphicsenv" value="sun.awt.X11GraphicsEnvironment"/>
+    <property name="surefire.real.class.path" value="/home/vend/IdeaProjects/AutomationStore/target/surefire/surefirebooter8042687401272897839.jar"/>
+    <property name="sun.boot.class.path" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/resources.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/rt.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/sunrsasign.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jsse.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jce.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/charsets.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/jfr.jar:/usr/lib/jvm/java-8-openjdk-amd64/jre/classes"/>
+    <property name="sun.management.compiler" value="HotSpot 64-Bit Tiered Compilers"/>
+    <property name="java.runtime.version" value="1.8.0_362-8u372-ga~us1-0ubuntu1~22.04-b09"/>
+    <property name="user.name" value="vend"/>
+    <property name="path.separator" value=":"/>
+    <property name="otel.metrics.exporter" value="none"/>
+    <property name="os.version" value="5.19.0-46-generic"/>
+    <property name="java.endorsed.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/endorsed"/>
+    <property name="java.runtime.name" value="OpenJDK Runtime Environment"/>
+    <property name="otel.traces.exporter" value="none"/>
+    <property name="file.encoding" value="UTF-8"/>
+    <property name="sun.nio.ch.bugLevel" value=""/>
+    <property name="java.vm.name" value="OpenJDK 64-Bit Server VM"/>
+    <property name="localRepository" value="/home/vend/.m2/repository"/>
+    <property name="java.vendor.url.bug" value="http://bugreport.sun.com/bugreport/"/>
+    <property name="java.io.tmpdir" value="/tmp"/>
+    <property name="idea.version" value="2023.1.4"/>
+    <property name="java.version" value="1.8.0_362"/>
+    <property name="user.dir" value="/home/vend/IdeaProjects/AutomationStore"/>
+    <property name="os.arch" value="amd64"/>
+    <property name="java.vm.specification.name" value="Java Virtual Machine Specification"/>
+    <property name="java.awt.printerjob" value="sun.print.PSPrinterJob"/>
+    <property name="sun.os.patch.level" value="unknown"/>
+    <property name="java.library.path" value="/usr/java/packages/lib/amd64:/usr/lib/x86_64-linux-gnu/jni:/lib/x86_64-linux-gnu:/usr/lib/x86_64-linux-gnu:/usr/lib/jni:/lib:/usr/lib"/>
+    <property name="java.vm.info" value="mixed mode"/>
+    <property name="java.vendor" value="Private Build"/>
+    <property name="java.vm.version" value="25.362-b09"/>
+    <property name="java.specification.maintenance.version" value="4"/>
+    <property name="java.ext.dirs" value="/usr/lib/jvm/java-8-openjdk-amd64/jre/lib/ext:/usr/java/packages/lib/ext"/>
+    <property name="sun.io.unicode.encoding" value="UnicodeLittle"/>
+    <property name="java.class.version" value="52.0"/>
+  </properties>
+  <testcase name="runScenario[&quot;Try to Login using email and password and add DOVE product&quot;, &quot;Optional[Login and select latest DOVE product]&quot;](1)" classname="CucumberOptions.TestNGTestRunner" time="23.639">
+    <system-out><![CDATA[
+Scenario Outline: Try to Login using email and password and add DOVE product # src/test/java/Features/Scenario1.feature:15
+
+@last
+Scenario Outline: Try to Login using email and password and add items based on filters # src/test/java/Features/Scenario2.feature:24
+
+@skin
+Scenario Outline: Try to Login using email and password and add sale items # src/test/java/Features/Scenario3.feature:17
+
+@M
+Scenario Outline: Try to Login using email and password and add items whose name ends with M # src/test/java/Features/Scenario4.feature:17
+[INFO ] 2023-07-25 11:28:22.443 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-25 11:28:22.438 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-25 11:28:22.441 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-25 11:28:22.435 [TestNG-PoolService-3] Base - setting driver
+[INFO ] 2023-07-25 11:28:27.601 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:28:27.769 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:28:28.066 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:28:28.664 [TestNG-PoolService-3] LoginPage - checking loginpage
+  Given User is on Login Page                                                # StepDefinitions.Scenario1StepDefinition.user_is_on_login_page()
+
+    PASSED---STEP PASSED---
+
+  Given User is on Login Page                                                          # StepDefinitions.Scenario1StepDefinition.user_is_on_login_page()
+
+    PASSED---STEP PASSED---
+
+  Given User is on Login Page                                              # StepDefinitions.Scenario1StepDefinition.user_is_on_login_page()
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:29.610 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-25 11:28:29.693 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-25 11:28:29.938 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-25 11:28:30.008 [TestNG-PoolService-0] LoginPage - entered password
+  When User enters username "shaiz" and password "vivov11pro"                # StepDefinitions.Scenario1StepDefinition.user_enters_username_and_password(java.lang.String,java.lang.String)
+
+    PASSED---STEP PASSED---
+
+  Given User is on Login Page                                                                # StepDefinitions.Scenario1StepDefinition.user_is_on_login_page()
+[INFO ] 2023-07-25 11:28:30.108 [TestNG-PoolService-1] LoginPage - entered password
+  When User enters username "shaiz" and password "vivov11pro"                          # StepDefinitions.Scenario1StepDefinition.user_enters_username_and_password(java.lang.String,java.lang.String)
+
+    PASSED---STEP PASSED---
+
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:30.432 [TestNG-PoolService-2] LoginPage - entered password
+  When User enters username "shaiz" and password "vivov11pro"              # StepDefinitions.Scenario1StepDefinition.user_enters_username_and_password(java.lang.String,java.lang.String)
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:30.647 [TestNG-PoolService-3] LoginPage - entering uname
+[INFO ] 2023-07-25 11:28:31.057 [TestNG-PoolService-3] LoginPage - entered password
+  When User enters username "shaiz" and password "vivov11pro"                                # StepDefinitions.Scenario1StepDefinition.user_enters_username_and_password(java.lang.String,java.lang.String)
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:31.393 [TestNG-PoolService-0] LoginPage - clicked on login button
+  And User tries to Login                                                    # StepDefinitions.Scenario1StepDefinition.user_tries_to_login()
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:31.463 [TestNG-PoolService-1] LoginPage - clicked on login button
+  And User tries to Login                                                              # StepDefinitions.Scenario1StepDefinition.user_tries_to_login()
+
+    PASSED---STEP PASSED---
+
+  Then User is on the Landing page                                           # StepDefinitions.Scenario1StepDefinition.user_is_on_the_landing_page()
+
+    PASSED---STEP PASSED---
+
+  Then User is on the Landing page                                                     # StepDefinitions.Scenario1StepDefinition.user_is_on_the_landing_page()
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:31.933 [TestNG-PoolService-2] LoginPage - clicked on login button
+  And User tries to Login                                                  # StepDefinitions.Scenario1StepDefinition.user_tries_to_login()
+
+    PASSED---STEP PASSED---
+
+  Then User is on the Landing page                                         # StepDefinitions.Scenario1StepDefinition.user_is_on_the_landing_page()
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:32.355 [TestNG-PoolService-3] LoginPage - clicked on login button
+  And User tries to Login                                                                    # StepDefinitions.Scenario1StepDefinition.user_tries_to_login()
+
+    PASSED---STEP PASSED---
+
+  Then User is on the Landing page                                                           # StepDefinitions.Scenario1StepDefinition.user_is_on_the_landing_page()
+
+    PASSED---STEP PASSED---
+
+  When User navigates to Apparel page                                                  # StepDefinitions.Scenario2StepDefinition.user_navigates_to_apparel_page()
+
+    PASSED---STEP PASSED---
+
+  When User navigates to skin care section                                 # StepDefinitions.Scenario3StepDefinition.user_navigates_to_skin_care_section()
+
+    PASSED---STEP PASSED---
+
+sale item found
+sale item found
+
+  When User selects MEN products only                                                        # StepDefinitions.Scenario4StepDefinition.user_selects_men_products_only()
+
+    PASSED---STEP PASSED---
+
+
+
+found
+sale item found
+total sale items are 3
+  And checks how many items are on Sale                                    # StepDefinitions.Scenario3StepDefinition.checks_how_many_items_are_on()
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:34.178 [TestNG-PoolService-1] HomePage - tshirts page clicked
+  And Then navigates to tshirts page                                                   # StepDefinitions.Scenario2StepDefinition.then_navigates_to_tshirts_page()
+
+    PASSED---STEP PASSED---
+
+nostock item found in sale item
+  When User selects MEN products                                             # StepDefinitions.Scenario1StepDefinition.user_selects_men_products()
+
+    PASSED---STEP PASSED---
+
+
+total no stock items are 1
+  And checks how many items are Out of Stock                               # StepDefinitions.Scenario3StepDefinition.checks_how_many_items_are()
+
+    PASSED---STEP PASSED---
+
+  When User selects latest "DOVE" product                                    # StepDefinitions.Scenario1StepDefinition.user_selects_latest_dove_product(java.lang.String)
+
+    PASSED---STEP PASSED---
+
+  When User sort elements from "Price Low > High"                                      # StepDefinitions.Scenario2StepDefinition.user_sort_elements_from_low_to_high(java.lang.String)
+
+    PASSED---STEP PASSED---
+
+nostock
+  When User selects product whose name ends with "M"                                         # StepDefinitions.Scenario4StepDefinition.user_selects_product_whose_name_ends_with(java.lang.String)
+
+    PASSED---STEP PASSED---
+
+nostock
+nostock
+items found are less than desired size
+  And Add it to the cart                                                     # StepDefinitions.Scenario1StepDefinition.add_it_to_the_cart()
+
+    PASSED---STEP PASSED---
+
+  And Add the "Sale" items in cart                                         # StepDefinitions.Scenario3StepDefinition.add_the_items_in_cart(java.lang.String)
+
+    PASSED---STEP PASSED---
+
+  And Add items to the cart                                                                  # StepDefinitions.Scenario4StepDefinition.add_items_to_the_cart()
+
+    PASSED---STEP PASSED---
+
+  Then verify the selected product has price "6.70" and quantity is "1"      # StepDefinitions.Scenario1StepDefinition.verify_the_selected_product_has_price_and_quantity_is(java.lang.String,java.lang.String)
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:38.167 [TestNG-PoolService-0] CartPage - driver quit
+]]></system-out>
+    <system-err><![CDATA[Starting ChromeDriver 115.0.5790.102 (90efd4b0ad6aa15eeafcdabd5817ae939fS7ba0t5aStarrtitngi ngC9 h-CrrheorfmoesmD/erbDriravinevcre hr1- h115e1.a50d.s.05/.5757970990.01_.091200 @2({ 9#(099}e0f)e dfo4dnb4 0bap0oda6rdat6 aa15a2514e55ee2aef
+aOcfdncaldybad bl5d8o51c8a717la coen9ne3c9tfi7obnas0 5a9r-er eaflsl/obwreadn.c
+hP-lheeaasdes /s5e7e9 0h_t9t0p@s:{/#/9c}h)r oomne dproirvte r6.0c4h8r5om
+iOunml.yo rlgo/csealc ucrointnye-cctonisoindsStearrattiionngs  fCohrr osmueg Dgareriesv tiaeolrnl 115a.0e.9o53w79e9fd7.b
+aPleases on ke0ep.i1n0g2  Ch(r90oemfed4Dbri0veard 6saaaf1e.5
+eCeharfocmdeabDdr5i8v1e7ra ew9a3s9 fs7tbaar0t5e9d- rseufcsc/ebsrsafnuclh-lhye.a
+ds0/55799-0r_e9f0s@/{b#r9a}n) cohn- hpoerat d4s5/25577
+O9n0l_y9 0l@o{c#al9 }c)o nonne cptoirotn s3 4a7r0e4
+O nallyl olwoecda.l
+P lceoansnee csteei ohntst pasr:/e/ cahlrloomweeddr.i
+vPelre.cahsreo msieuem .hotrtgp/ss:e/cu/rcihtryo-mceodnrsiivdeerra.tcihornosm ifuomr. osrugg/gseesctuirointsy -ocno nkseiedpeirnagt iCohnrso mfeoDrr isvuerg gseasftei.o
+nCsh roonm ekDereipveirn gwa sC hsrtoamretD see https:rediv seurc csessfully.
+//chromedriver.chromium.org/security-considerations for sauggfees.t
+iCohnrs ono mkeeDerpiivnegr  Cwharso msetDarritevde rsu scacefsesf.u
+llCy.h
+romeDriver was started successfully.
+Jul 25, 2023 11:28:16 AM org.openqa.selenium.remote.tracing.opentelemetry.OpenTelemetryTracer createTracer
+INFO: Using OpenTelemetry for tracing
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Jul 25, 2023 11:28:22 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 25, 2023 11:28:22 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 25, 2023 11:28:22 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Jul 25, 2023 11:28:22 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+]]></system-err>
+  </testcase>
+  <testcase name="runScenario[&quot;Try to Login using email and password and add items whose name ends with M&quot;, &quot;Optional[Login and add items whose name ends with M]&quot;](2)" classname="CucumberOptions.TestNGTestRunner" time="24.368">
+    <system-out><![CDATA[  Then verify the selected product has ending name with "M"                                  # StepDefinitions.Scenario4StepDefinition.verify_the_selected_product_has_ending_name_with(java.lang.String)
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:38.980 [TestNG-PoolService-3] CartPage - driver quit
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Try to Login using email and password and add sale items&quot;, &quot;Optional[Login and add items that are on sale]&quot;](3)" classname="CucumberOptions.TestNGTestRunner" time="25.093">
+    <system-out><![CDATA[  Then verify the selected items count                                     # StepDefinitions.Scenario3StepDefinition.verify_the_selected_items_count_are()
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:39.725 [TestNG-PoolService-2] CartPage - driver quit
+]]></system-out>
+  </testcase>
+  <testcase name="runScenario[&quot;Try to Login using email and password and add items based on filters&quot;, &quot;Optional[Login and add items whose name ends with relevant filters]&quot;](4)" classname="CucumberOptions.TestNGTestRunner" time="34.218">
+    <system-out><![CDATA[  And Selects top 3 lowest t-shirts and add it to cart                                 # StepDefinitions.Scenario2StepDefinition.selects_top_lowest_the_t_shirts_and_add_it_to_cart(java.lang.Integer)
+
+    PASSED---STEP PASSED---
+
+  When Go back to Apparels section                                                     # StepDefinitions.Scenario2StepDefinition.go_back_to_apparels_section()
+
+    PASSED---STEP PASSED---
+
+  When Navigate to Shoes Page                                                          # StepDefinitions.Scenario2StepDefinition.navigate_to_shoes_page()
+
+    PASSED---STEP PASSED---
+
+  And Add highest price product in cart                                                # StepDefinitions.Scenario2StepDefinition.add_highest_price_product_in_cart()
+
+    PASSED---STEP PASSED---
+
+  And Select quantity "2" and proceed                                                  # StepDefinitions.Scenario2StepDefinition.select_quantity_and_proceed(java.lang.String)
+
+    PASSED---STEP PASSED---
+
+  Then Verify the "3" items in cart                                                    # StepDefinitions.Scenario2StepDefinition.verify_the_items_in_cart(java.lang.String)
+
+    PASSED---STEP PASSED---
+
+[INFO ] 2023-07-25 11:28:48.849 [TestNG-PoolService-1] CartPage - driver quit
+]]></system-out>
+  </testcase>
+</testsuite>

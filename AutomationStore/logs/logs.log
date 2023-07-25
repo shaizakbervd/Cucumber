@@ -1,0 +1,917 @@
+[INFO ] 2023-07-13 17:14:48.750 [main] Base - setting driver
+[INFO ] 2023-07-13 17:14:51.487 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-13 17:14:52.847 [main] LoginPage - entering uname
+[INFO ] 2023-07-13 17:14:53.143 [main] LoginPage - entered password
+[INFO ] 2023-07-13 17:14:54.383 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-13 17:23:02.603 [main] Base - setting driver
+[INFO ] 2023-07-13 17:23:06.029 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-13 17:23:07.859 [main] LoginPage - entering uname
+[INFO ] 2023-07-13 17:23:08.153 [main] LoginPage - entered password
+[INFO ] 2023-07-13 17:23:09.257 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 10:36:35.879 [main] Base - setting driver
+[INFO ] 2023-07-14 10:36:38.617 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 10:36:39.954 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 10:36:40.258 [main] LoginPage - entered password
+[INFO ] 2023-07-14 10:36:41.292 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 10:55:21.704 [main] Base - setting driver
+[INFO ] 2023-07-14 10:55:24.279 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 10:55:25.619 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 10:55:25.911 [main] LoginPage - entered password
+[INFO ] 2023-07-14 10:55:26.894 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 10:57:17.736 [main] Base - setting driver
+[INFO ] 2023-07-14 10:57:20.530 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 10:57:22.552 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 10:57:22.841 [main] LoginPage - entered password
+[INFO ] 2023-07-14 10:57:23.823 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:00:02.549 [main] Base - setting driver
+[INFO ] 2023-07-14 11:00:17.455 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:00:19.631 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:00:19.928 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:00:21.206 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:02:07.219 [main] Base - setting driver
+[INFO ] 2023-07-14 11:02:10.087 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:02:11.448 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:02:11.731 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:02:12.832 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:03:32.536 [main] Base - setting driver
+[INFO ] 2023-07-14 11:03:35.131 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:03:36.533 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:03:36.832 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:03:37.866 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:04:58.176 [main] Base - setting driver
+[INFO ] 2023-07-14 11:05:01.516 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:05:02.864 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:05:03.157 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:05:04.248 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:10:32.102 [main] Base - setting driver
+[INFO ] 2023-07-14 11:10:34.686 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:10:36.037 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:10:36.332 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:10:37.489 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:11:56.440 [main] Base - setting driver
+[INFO ] 2023-07-14 11:11:58.986 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:12:00.292 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:12:00.600 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:12:01.721 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:16:25.378 [main] Base - setting driver
+[INFO ] 2023-07-14 11:16:27.787 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:16:29.124 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:16:29.414 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:16:30.427 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:18:21.312 [main] Base - setting driver
+[INFO ] 2023-07-14 11:18:24.243 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:18:25.560 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:18:25.848 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:18:26.830 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:19:55.074 [main] Base - setting driver
+[INFO ] 2023-07-14 11:19:57.654 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:19:58.962 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:19:59.231 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:20:00.193 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:26:23.085 [main] Base - setting driver
+[INFO ] 2023-07-14 11:26:25.786 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:26:27.107 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:26:27.400 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:26:28.426 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:31:50.989 [main] Base - setting driver
+[INFO ] 2023-07-14 11:31:53.507 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:31:54.821 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:31:55.124 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:31:56.106 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 11:39:40.932 [main] Base - setting driver
+[INFO ] 2023-07-14 11:39:43.638 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-14 11:39:44.881 [main] LoginPage - entering uname
+[INFO ] 2023-07-14 11:39:45.167 [main] LoginPage - entered password
+[INFO ] 2023-07-14 11:39:46.150 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-14 13:49:24.302 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 13:49:24.302 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 13:49:27.362 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 13:49:27.646 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 13:49:28.806 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 13:49:29.021 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 13:49:29.105 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 13:49:29.331 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 13:49:30.168 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 13:49:30.312 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 13:51:15.953 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 13:51:15.953 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 13:51:18.998 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 13:51:19.098 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 13:51:20.399 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 13:51:20.514 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 13:51:20.713 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 13:51:20.849 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 13:51:21.749 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 13:51:21.837 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 13:53:44.687 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 13:53:44.687 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 13:53:47.983 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 13:53:48.031 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 13:53:49.389 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 13:53:49.478 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 13:53:49.710 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 13:53:49.812 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 13:53:50.780 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 13:53:50.877 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 13:56:26.176 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 13:56:26.176 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 13:56:30.270 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 13:56:30.276 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 13:56:31.708 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 13:56:31.718 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 13:56:32.038 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 13:56:32.055 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 13:56:33.041 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 13:56:33.087 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:00:50.263 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:00:50.263 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:00:53.488 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:00:53.560 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:00:54.984 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:00:54.986 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:00:55.303 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:00:55.317 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:00:56.033 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:00:56.432 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:03:10.575 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:03:10.575 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:03:13.657 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:03:14.335 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:03:15.251 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:03:15.588 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:03:15.956 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:03:16.246 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:03:16.272 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:03:17.372 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:11:05.570 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:11:05.561 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:11:08.598 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:11:09.129 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:11:10.093 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:11:10.375 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:11:10.574 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:11:10.879 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:11:11.583 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:11:12.166 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:13:58.020 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:13:58.020 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:14:01.317 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:14:01.318 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:14:02.786 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:14:02.791 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:14:03.117 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:14:03.117 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:14:03.799 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:14:04.197 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:15:40.562 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:15:40.562 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:15:45.976 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:15:46.922 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:15:47.537 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:15:47.896 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:15:48.386 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:15:48.674 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:15:48.936 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:15:49.678 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:17:21.263 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:17:21.263 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:17:24.397 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:17:24.505 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:17:25.788 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:17:25.955 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:17:26.143 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:17:26.301 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:17:27.155 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:17:27.354 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:52:59.538 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:52:59.530 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:53:02.801 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:53:03.212 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:53:04.263 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:53:04.581 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:53:04.712 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:53:05.011 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:53:05.780 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:53:06.097 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:54:03.125 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:54:03.125 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:54:24.471 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:54:25.836 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:54:26.119 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:54:27.710 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:54:32.055 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:54:33.677 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:54:33.983 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:54:35.558 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:58:42.055 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 14:58:42.055 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 14:58:45.304 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:58:45.711 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 14:58:46.769 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 14:58:47.071 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 14:58:47.135 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 14:58:47.443 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 14:58:48.101 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 14:58:48.139 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:00:53.699 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:00:53.699 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 15:01:04.156 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:01:05.308 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:01:06.934 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:01:07.237 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:01:07.562 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 15:01:07.854 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 15:01:08.432 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:01:09.078 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:04:03.008 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 15:04:03.008 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:04:06.907 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:04:08.226 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:04:08.394 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 15:04:08.703 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 15:04:09.664 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:04:09.842 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:04:09.976 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:04:11.115 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:05:28.874 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 15:05:28.874 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:05:32.803 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:05:33.780 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:05:34.324 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:05:34.659 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:05:35.194 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 15:05:35.478 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 15:05:35.803 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:05:37.029 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:07:59.937 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 15:07:59.937 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:08:04.519 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:08:06.800 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:08:07.105 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:08:08.239 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:08:08.971 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:08:10.394 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 15:08:10.668 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 15:08:11.806 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:13:10.962 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:13:10.962 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 15:13:14.436 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:13:15.198 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:13:15.964 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 15:13:16.243 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 15:13:16.569 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:13:16.821 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:13:17.401 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:13:18.037 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:14:27.505 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:14:27.505 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 15:14:42.579 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:14:43.976 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:14:44.301 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:14:45.382 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:14:48.039 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:14:49.481 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 15:14:49.767 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 15:14:50.863 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:17:31.812 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:17:34.947 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:17:36.379 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:17:36.674 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:17:37.706 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:19:08.413 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:19:11.451 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:19:12.852 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:19:13.139 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:19:14.483 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:21:05.542 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:21:09.166 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:21:10.574 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:21:10.855 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:21:11.876 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:22:06.185 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:22:09.794 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:22:11.133 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:22:11.414 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:22:12.551 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:24:12.570 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:24:16.281 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:24:17.715 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:24:18.016 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:24:19.163 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:25:15.989 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:25:19.942 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:25:21.359 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:25:21.654 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:25:22.806 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:29:35.445 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:29:39.038 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:29:40.416 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:29:40.710 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:29:41.951 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:30:24.282 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:30:29.104 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:30:30.541 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:30:30.848 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:30:31.974 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:31:11.863 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:31:15.402 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:31:16.911 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:31:17.218 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:31:18.369 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:38:10.300 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:38:13.734 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:38:15.324 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:38:15.611 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:38:16.712 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:41:41.676 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:41:45.955 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:41:47.306 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:41:47.598 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:41:48.645 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:42:52.072 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:42:55.974 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:42:57.352 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:42:57.645 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:42:58.752 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:43:44.627 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:43:48.200 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:43:49.570 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:43:49.865 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:43:50.562 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:48:54.918 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:48:58.233 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:48:59.631 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:48:59.924 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:49:00.892 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:54:57.005 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-14 15:54:57.005 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-14 15:55:00.609 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:55:01.019 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-14 15:55:02.159 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-14 15:55:02.470 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-14 15:55:02.543 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-14 15:55:02.844 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-14 15:55:05.173 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-14 15:55:05.224 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:03:17.656 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 14:03:17.656 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-17 14:03:21.250 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:03:21.673 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:03:22.795 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 14:03:23.085 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 14:03:23.198 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-17 14:03:23.524 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-17 14:03:24.253 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:03:24.883 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:13:44.665 [main] Base - setting driver
+[INFO ] 2023-07-17 14:13:47.084 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:13:48.437 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 14:13:48.733 [main] LoginPage - entered password
+[INFO ] 2023-07-17 14:13:50.660 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:15:52.302 [main] Base - setting driver
+[INFO ] 2023-07-17 14:15:55.132 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:15:56.441 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 14:15:56.737 [main] LoginPage - entered password
+[INFO ] 2023-07-17 14:15:57.743 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:18:38.923 [main] Base - setting driver
+[INFO ] 2023-07-17 14:18:41.547 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:18:42.842 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 14:18:43.151 [main] LoginPage - entered password
+[INFO ] 2023-07-17 14:18:44.242 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:21:03.947 [main] Base - setting driver
+[INFO ] 2023-07-17 14:21:06.494 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:21:07.804 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 14:21:08.092 [main] LoginPage - entered password
+[INFO ] 2023-07-17 14:21:09.160 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:34:53.482 [main] Base - setting driver
+[INFO ] 2023-07-17 14:35:03.014 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:35:04.344 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 14:35:04.630 [main] LoginPage - entered password
+[INFO ] 2023-07-17 14:35:05.264 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:36:22.040 [main] Base - setting driver
+[INFO ] 2023-07-17 14:36:25.574 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:36:26.920 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 14:36:27.216 [main] LoginPage - entered password
+[INFO ] 2023-07-17 14:36:28.309 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:45:08.556 [main] Base - setting driver
+[INFO ] 2023-07-17 14:45:19.282 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:45:21.425 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 14:45:21.712 [main] LoginPage - entered password
+[INFO ] 2023-07-17 14:45:24.258 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 14:46:35.740 [main] Base - setting driver
+[INFO ] 2023-07-17 14:46:38.701 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 14:46:40.242 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 14:46:40.550 [main] LoginPage - entered password
+[INFO ] 2023-07-17 14:46:41.581 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:02:06.092 [main] Base - setting driver
+[INFO ] 2023-07-17 15:02:08.989 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:02:10.388 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 15:02:10.707 [main] LoginPage - entered password
+[INFO ] 2023-07-17 15:02:11.839 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:09:52.476 [main] Base - setting driver
+[INFO ] 2023-07-17 15:09:55.554 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:09:56.880 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 15:09:57.175 [main] LoginPage - entered password
+[INFO ] 2023-07-17 15:09:58.246 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:17:59.367 [main] Base - setting driver
+[INFO ] 2023-07-17 15:18:02.854 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:18:04.195 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 15:18:04.484 [main] LoginPage - entered password
+[INFO ] 2023-07-17 15:18:06.300 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:21:02.194 [main] Base - setting driver
+[INFO ] 2023-07-17 15:21:05.702 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:21:07.026 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 15:21:07.316 [main] LoginPage - entered password
+[INFO ] 2023-07-17 15:21:09.431 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:23:53.773 [main] Base - setting driver
+[INFO ] 2023-07-17 15:23:59.412 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:24:00.726 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 15:24:01.017 [main] LoginPage - entered password
+[INFO ] 2023-07-17 15:24:02.174 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:27:45.948 [main] Base - setting driver
+[INFO ] 2023-07-17 15:28:14.963 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:28:16.414 [main] LoginPage - entering uname
+[INFO ] 2023-07-17 15:28:16.705 [main] LoginPage - entered password
+[INFO ] 2023-07-17 15:28:17.781 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:31:08.440 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 15:31:08.440 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-17 15:31:16.389 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:31:17.613 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:31:17.934 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-17 15:31:18.253 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-17 15:31:18.892 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:31:19.127 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 15:31:19.402 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 15:31:20.601 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:32:59.531 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-17 15:32:59.531 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 15:33:06.407 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:33:06.881 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 15:33:07.893 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-17 15:33:08.196 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-17 15:33:08.357 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 15:33:08.658 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 15:33:09.294 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-17 15:33:09.849 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 16:46:00.584 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 16:46:07.313 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 16:46:08.664 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 16:46:08.950 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 16:46:10.303 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:01:02.161 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:01:07.003 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:01:08.565 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:01:08.855 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:01:09.938 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:02:33.064 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:02:36.446 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:02:37.765 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:02:38.061 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:02:39.715 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:04:31.671 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:04:39.056 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:04:40.643 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:04:40.954 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:04:42.040 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:18:50.470 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:18:55.474 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:18:56.849 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:18:57.143 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:18:59.934 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:20:39.609 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:22:25.937 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:22:28.815 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:22:30.272 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:22:30.563 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:22:31.760 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:23:30.523 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:23:35.072 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:23:36.688 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:23:37.053 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:23:38.375 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:24:58.030 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:25:04.564 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:25:06.068 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:25:06.554 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:25:07.679 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:28:57.238 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:29:02.280 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:29:04.407 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:29:04.693 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:29:06.382 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 17:32:53.272 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 17:32:58.582 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 17:33:00.083 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 17:33:00.381 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 17:33:01.437 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 18:26:24.824 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 18:26:28.389 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 18:26:29.720 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 18:26:30.012 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 18:26:31.258 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-17 18:27:06.784 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-17 18:27:06.784 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-17 18:27:06.784 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-17 18:27:16.743 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-17 18:27:17.467 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-17 18:27:18.245 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-17 18:27:18.606 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-17 18:27:18.635 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-17 18:27:18.973 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-17 18:27:19.355 [TestNG-PoolService-2] LoginPage - entered password
+[INFO ] 2023-07-17 18:27:19.751 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-17 18:27:20.035 [TestNG-PoolService-2] LoginPage - clicked on login button
+[INFO ] 2023-07-17 18:27:20.189 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-17 18:27:20.525 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-17 18:27:21.628 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-21 15:39:51.345 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-21 15:39:54.393 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-21 15:39:55.696 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-21 15:39:56.008 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-21 15:39:57.148 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:00:22.333 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:00:25.640 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:00:26.991 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:00:27.309 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:00:28.349 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:08:23.111 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:08:26.483 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:08:27.822 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:08:28.134 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:08:29.169 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:10:20.026 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:10:24.623 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:10:25.949 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:10:26.252 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:10:27.327 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:12:32.044 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:12:35.092 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:12:36.401 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:12:36.695 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:12:38.114 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:20:52.038 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:20:55.399 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:20:56.736 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:20:57.040 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:20:58.087 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:21:00.070 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:24:52.507 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:24:56.506 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:24:57.837 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:24:58.134 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:24:59.158 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:25:01.471 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:28:55.881 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:28:59.221 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:29:00.551 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:29:00.841 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:29:01.919 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:29:05.070 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:29:45.342 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:29:48.220 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:29:49.523 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:29:49.818 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:29:51.043 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:29:53.204 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:31:10.845 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:31:14.200 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:31:15.539 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:31:15.837 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:31:16.865 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:31:18.796 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:43:31.199 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:43:34.636 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:43:36.153 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:43:36.443 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:43:37.531 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:43:40.365 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:44:42.140 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:44:45.702 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:44:47.053 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:44:47.349 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:44:48.395 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:44:50.606 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:45:52.589 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:45:56.179 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:45:57.504 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:45:57.794 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:45:59.016 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:46:01.134 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:50:46.031 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:50:49.181 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:50:50.570 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:50:50.816 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:50:52.020 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:50:54.252 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 11:59:16.236 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 11:59:19.658 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 11:59:21.227 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 11:59:21.524 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 11:59:22.573 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 11:59:24.636 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 12:07:38.332 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 12:07:42.195 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 12:07:43.636 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 12:07:43.926 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 12:07:44.981 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 12:07:47.033 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 12:09:33.833 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 12:09:36.649 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 12:09:38.022 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 12:09:38.348 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 12:09:39.455 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 12:09:41.738 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 12:11:56.248 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 12:11:59.598 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 12:12:00.923 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 12:12:01.227 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 12:12:02.299 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 12:12:05.354 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 12:20:06.019 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 12:20:08.929 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 12:20:10.333 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 12:20:10.637 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 12:20:11.857 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 12:20:13.913 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 12:20:59.544 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 12:21:02.528 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 12:21:05.035 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 12:21:05.333 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 12:21:06.525 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 12:21:08.787 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 12:24:56.121 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 12:24:59.461 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 12:25:00.895 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 12:25:01.184 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 12:25:02.258 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 12:25:05.697 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 13:30:51.108 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 13:30:54.423 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 13:30:55.837 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 13:30:56.131 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 13:30:57.189 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 13:30:59.304 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 13:33:05.523 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 13:33:09.795 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 13:33:11.196 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 13:33:11.485 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 13:33:12.537 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 13:33:14.764 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 13:35:02.785 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 13:35:06.821 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 13:35:08.216 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 13:35:08.507 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 13:35:09.692 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 13:35:11.882 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 13:36:57.477 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 13:37:00.788 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 13:37:02.184 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 13:37:02.487 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 13:37:04.568 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 13:37:06.692 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 13:38:55.138 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 13:38:58.210 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 13:38:59.600 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 13:38:59.897 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 13:39:01.034 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 13:39:03.154 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 13:44:02.640 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 13:44:07.900 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 13:44:09.259 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 13:44:09.557 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 13:44:10.632 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 13:44:12.614 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 13:45:25.774 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 13:45:28.886 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 13:45:30.312 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 13:45:30.604 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 13:45:31.668 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 13:45:33.759 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 13:59:22.754 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 13:59:26.432 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 13:59:27.757 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 13:59:28.057 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 13:59:29.279 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 13:59:33.080 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 14:02:46.852 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 14:02:50.778 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 14:02:52.147 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 14:02:52.440 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 14:02:54.639 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 14:02:58.686 [TestNG-PoolService-0] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 15:02:32.772 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-24 15:02:32.772 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-24 15:02:32.772 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 15:02:32.772 [TestNG-PoolService-3] Base - setting driver
+[INFO ] 2023-07-24 15:02:37.061 [TestNG-PoolService-3] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:02:37.061 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:02:38.361 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:02:39.038 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:02:39.615 [TestNG-PoolService-3] LoginPage - entering uname
+[INFO ] 2023-07-24 15:02:39.624 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-24 15:02:40.017 [TestNG-PoolService-2] LoginPage - entered password
+[INFO ] 2023-07-24 15:02:40.065 [TestNG-PoolService-3] LoginPage - entered password
+[INFO ] 2023-07-24 15:02:40.620 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-24 15:02:41.050 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-24 15:02:41.263 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 15:02:41.566 [TestNG-PoolService-3] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:02:41.747 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 15:02:41.750 [TestNG-PoolService-2] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:02:42.656 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:02:43.206 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:02:45.424 [TestNG-PoolService-1] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 15:02:48.932 [TestNG-PoolService-3] CartPage - driver quit
+[INFO ] 2023-07-24 15:02:50.304 [TestNG-PoolService-0] CartPage - driver quit
+[INFO ] 2023-07-24 15:02:50.481 [TestNG-PoolService-2] CartPage - driver quit
+[INFO ] 2023-07-24 15:03:03.126 [TestNG-PoolService-1] CartPage - driver quit
+[INFO ] 2023-07-24 15:08:08.935 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 15:08:08.934 [TestNG-PoolService-3] Base - setting driver
+[INFO ] 2023-07-24 15:08:08.934 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-24 15:08:08.934 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-24 15:08:14.317 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:08:14.440 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:08:14.855 [TestNG-PoolService-3] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:08:16.295 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:08:16.910 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-24 15:08:17.079 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-24 15:08:17.138 [TestNG-PoolService-3] LoginPage - entering uname
+[INFO ] 2023-07-24 15:08:17.361 [TestNG-PoolService-2] LoginPage - entered password
+[INFO ] 2023-07-24 15:08:17.622 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-24 15:08:17.679 [TestNG-PoolService-3] LoginPage - entered password
+[INFO ] 2023-07-24 15:08:19.157 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 15:08:19.575 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 15:08:19.744 [TestNG-PoolService-2] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:08:19.755 [TestNG-PoolService-3] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:08:19.799 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:08:21.874 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:08:23.292 [TestNG-PoolService-1] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 15:08:27.938 [TestNG-PoolService-3] CartPage - driver quit
+[INFO ] 2023-07-24 15:08:29.365 [TestNG-PoolService-2] CartPage - driver quit
+[INFO ] 2023-07-24 15:08:29.680 [TestNG-PoolService-0] CartPage - driver quit
+[INFO ] 2023-07-24 15:08:40.012 [TestNG-PoolService-1] CartPage - driver quit
+[INFO ] 2023-07-24 15:11:33.760 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-24 15:11:33.760 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-24 15:11:33.760 [TestNG-PoolService-3] Base - setting driver
+[INFO ] 2023-07-24 15:11:33.760 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-24 15:11:37.466 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:11:38.578 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:11:39.690 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-24 15:11:39.694 [TestNG-PoolService-3] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:11:39.887 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-24 15:11:40.137 [TestNG-PoolService-2] LoginPage - entered password
+[INFO ] 2023-07-24 15:11:40.691 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-24 15:11:41.215 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-24 15:11:41.691 [TestNG-PoolService-2] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:11:41.765 [TestNG-PoolService-3] LoginPage - entering uname
+[INFO ] 2023-07-24 15:11:42.339 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-24 15:11:42.464 [TestNG-PoolService-3] LoginPage - entered password
+[INFO ] 2023-07-24 15:11:42.642 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:11:42.766 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-24 15:11:43.804 [TestNG-PoolService-3] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:11:44.195 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-24 15:11:47.229 [TestNG-PoolService-1] HomePage - tshirts page clicked
+[INFO ] 2023-07-24 15:11:50.013 [TestNG-PoolService-0] CartPage - driver quit
+[INFO ] 2023-07-24 15:11:50.224 [TestNG-PoolService-2] CartPage - driver quit
+[INFO ] 2023-07-24 15:11:50.984 [TestNG-PoolService-3] CartPage - driver quit
+[INFO ] 2023-07-24 15:12:02.348 [TestNG-PoolService-1] CartPage - driver quit
+[INFO ] 2023-07-24 17:36:08.817 [main] Base - setting driver
+[INFO ] 2023-07-24 17:36:13.942 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-24 17:36:15.529 [main] LoginPage - entering uname
+[INFO ] 2023-07-24 17:36:15.818 [main] LoginPage - entered password
+[INFO ] 2023-07-24 17:36:16.906 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-24 17:36:22.410 [main] CartPage - driver quit
+[INFO ] 2023-07-24 17:36:25.000 [main] Base - setting driver
+[INFO ] 2023-07-24 17:36:37.498 [main] CartPage - capturing ss of failed scenario
+[INFO ] 2023-07-24 17:36:37.590 [main] CartPage - driver quit
+[INFO ] 2023-07-24 17:36:39.947 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.191 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.328 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.391 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.571 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.583 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.644 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.745 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.755 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.790 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.874 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.881 [main] Base - setting driver
+[INFO ] 2023-07-24 17:42:16.908 [main] Base - setting driver
+[INFO ] 2023-07-24 17:54:41.237 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-24 17:54:42.629 [main] LoginPage - entering uname
+[INFO ] 2023-07-24 17:54:42.911 [main] LoginPage - entered password
+[INFO ] 2023-07-24 17:54:43.593 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-24 17:54:45.326 [main] CartPage - capturing ss of failed scenario
+[INFO ] 2023-07-24 17:54:45.514 [main] CartPage - driver quit
+[INFO ] 2023-07-24 19:11:33.944 [main] Base - setting driver
+[INFO ] 2023-07-24 19:11:37.187 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-24 19:11:38.773 [main] LoginPage - entering uname
+[INFO ] 2023-07-24 19:11:39.076 [main] LoginPage - entered password
+[INFO ] 2023-07-24 19:11:40.283 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-24 19:11:45.087 [main] CartPage - driver quit
+[INFO ] 2023-07-24 19:12:44.301 [main] Base - setting driver
+[INFO ] 2023-07-24 19:12:47.541 [main] LoginPage - checking loginpage
+[INFO ] 2023-07-24 19:12:48.979 [main] LoginPage - entering uname
+[INFO ] 2023-07-24 19:12:49.365 [main] LoginPage - entered password
+[INFO ] 2023-07-24 19:12:50.443 [main] LoginPage - clicked on login button
+[INFO ] 2023-07-24 19:12:55.846 [main] CartPage - driver quit
+[INFO ] 2023-07-24 19:12:58.062 [main] Base - setting driver
+[INFO ] 2023-07-25 10:18:36.737 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-25 10:18:36.737 [TestNG-PoolService-3] Base - setting driver
+[INFO ] 2023-07-25 10:18:36.737 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-25 10:18:36.737 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-25 10:18:44.291 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-25 10:18:44.334 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-25 10:18:44.964 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-25 10:18:44.977 [TestNG-PoolService-3] LoginPage - checking loginpage
+[INFO ] 2023-07-25 10:18:46.460 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-25 10:18:46.482 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-25 10:18:46.919 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-25 10:18:46.928 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-25 10:18:47.043 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-25 10:18:47.045 [TestNG-PoolService-3] LoginPage - entering uname
+[INFO ] 2023-07-25 10:18:47.443 [TestNG-PoolService-3] LoginPage - entered password
+[INFO ] 2023-07-25 10:18:47.461 [TestNG-PoolService-2] LoginPage - entered password
+[INFO ] 2023-07-25 10:18:48.209 [TestNG-PoolService-3] LoginPage - clicked on login button
+[INFO ] 2023-07-25 10:18:48.279 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-25 10:18:48.291 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-25 10:18:48.817 [TestNG-PoolService-2] LoginPage - clicked on login button
+[INFO ] 2023-07-25 10:18:51.076 [TestNG-PoolService-1] HomePage - tshirts page clicked
+[INFO ] 2023-07-25 10:18:55.148 [TestNG-PoolService-0] CartPage - driver quit
+[INFO ] 2023-07-25 10:18:55.822 [TestNG-PoolService-3] CartPage - driver quit
+[INFO ] 2023-07-25 10:18:57.033 [TestNG-PoolService-2] CartPage - driver quit
+[INFO ] 2023-07-25 10:19:06.561 [TestNG-PoolService-1] CartPage - driver quit
+[INFO ] 2023-07-25 10:46:37.770 [TestNG-PoolService-3] Base - setting driver
+[INFO ] 2023-07-25 10:46:37.770 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-25 10:46:37.770 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-25 10:46:37.770 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-25 10:46:43.658 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-25 10:46:43.714 [TestNG-PoolService-3] LoginPage - checking loginpage
+[INFO ] 2023-07-25 10:46:43.717 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-25 10:46:43.748 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-25 10:46:45.739 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-25 10:46:45.776 [TestNG-PoolService-3] LoginPage - entering uname
+[INFO ] 2023-07-25 10:46:45.782 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-25 10:46:45.816 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-25 10:46:46.155 [TestNG-PoolService-2] LoginPage - entered password
+[INFO ] 2023-07-25 10:46:46.270 [TestNG-PoolService-3] LoginPage - entered password
+[INFO ] 2023-07-25 10:46:46.276 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-25 10:46:46.311 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-25 10:46:47.510 [TestNG-PoolService-2] LoginPage - clicked on login button
+[INFO ] 2023-07-25 10:46:47.638 [TestNG-PoolService-3] LoginPage - clicked on login button
+[INFO ] 2023-07-25 10:46:47.725 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-25 10:46:47.938 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-25 10:46:50.495 [TestNG-PoolService-1] HomePage - tshirts page clicked
+[INFO ] 2023-07-25 10:46:54.902 [TestNG-PoolService-3] CartPage - driver quit
+[INFO ] 2023-07-25 10:46:55.232 [TestNG-PoolService-0] CartPage - driver quit
+[INFO ] 2023-07-25 10:46:55.742 [TestNG-PoolService-2] CartPage - driver quit
+[INFO ] 2023-07-25 10:47:05.429 [TestNG-PoolService-1] CartPage - driver quit
+[INFO ] 2023-07-25 11:17:23.870 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-25 11:17:23.870 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-25 11:17:23.870 [TestNG-PoolService-3] Base - setting driver
+[INFO ] 2023-07-25 11:17:23.870 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-25 11:17:28.443 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:17:29.262 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:17:29.637 [TestNG-PoolService-3] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:17:29.844 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:17:30.450 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-25 11:17:30.932 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-25 11:17:31.205 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-25 11:17:31.532 [TestNG-PoolService-3] LoginPage - entering uname
+[INFO ] 2023-07-25 11:17:31.654 [TestNG-PoolService-2] LoginPage - entered password
+[INFO ] 2023-07-25 11:17:31.793 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-25 11:17:32.042 [TestNG-PoolService-3] LoginPage - entered password
+[INFO ] 2023-07-25 11:17:32.212 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-25 11:17:32.361 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-25 11:17:33.062 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-25 11:17:33.448 [TestNG-PoolService-2] LoginPage - clicked on login button
+[INFO ] 2023-07-25 11:17:33.652 [TestNG-PoolService-3] LoginPage - clicked on login button
+[INFO ] 2023-07-25 11:17:36.705 [TestNG-PoolService-1] HomePage - tshirts page clicked
+[INFO ] 2023-07-25 11:17:40.036 [TestNG-PoolService-0] CartPage - driver quit
+[INFO ] 2023-07-25 11:17:41.320 [TestNG-PoolService-3] CartPage - driver quit
+[INFO ] 2023-07-25 11:17:41.998 [TestNG-PoolService-2] CartPage - driver quit
+[INFO ] 2023-07-25 11:17:52.125 [TestNG-PoolService-1] CartPage - driver quit
+[INFO ] 2023-07-25 11:28:22.443 [TestNG-PoolService-1] Base - setting driver
+[INFO ] 2023-07-25 11:28:22.438 [TestNG-PoolService-2] Base - setting driver
+[INFO ] 2023-07-25 11:28:22.435 [TestNG-PoolService-3] Base - setting driver
+[INFO ] 2023-07-25 11:28:22.441 [TestNG-PoolService-0] Base - setting driver
+[INFO ] 2023-07-25 11:28:27.601 [TestNG-PoolService-0] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:28:27.769 [TestNG-PoolService-1] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:28:28.066 [TestNG-PoolService-2] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:28:28.664 [TestNG-PoolService-3] LoginPage - checking loginpage
+[INFO ] 2023-07-25 11:28:29.610 [TestNG-PoolService-0] LoginPage - entering uname
+[INFO ] 2023-07-25 11:28:29.693 [TestNG-PoolService-1] LoginPage - entering uname
+[INFO ] 2023-07-25 11:28:29.938 [TestNG-PoolService-2] LoginPage - entering uname
+[INFO ] 2023-07-25 11:28:30.008 [TestNG-PoolService-0] LoginPage - entered password
+[INFO ] 2023-07-25 11:28:30.108 [TestNG-PoolService-1] LoginPage - entered password
+[INFO ] 2023-07-25 11:28:30.432 [TestNG-PoolService-2] LoginPage - entered password
+[INFO ] 2023-07-25 11:28:30.647 [TestNG-PoolService-3] LoginPage - entering uname
+[INFO ] 2023-07-25 11:28:31.057 [TestNG-PoolService-3] LoginPage - entered password
+[INFO ] 2023-07-25 11:28:31.393 [TestNG-PoolService-0] LoginPage - clicked on login button
+[INFO ] 2023-07-25 11:28:31.463 [TestNG-PoolService-1] LoginPage - clicked on login button
+[INFO ] 2023-07-25 11:28:31.933 [TestNG-PoolService-2] LoginPage - clicked on login button
+[INFO ] 2023-07-25 11:28:32.355 [TestNG-PoolService-3] LoginPage - clicked on login button
+[INFO ] 2023-07-25 11:28:34.178 [TestNG-PoolService-1] HomePage - tshirts page clicked
+[INFO ] 2023-07-25 11:28:38.167 [TestNG-PoolService-0] CartPage - driver quit
+[INFO ] 2023-07-25 11:28:38.980 [TestNG-PoolService-3] CartPage - driver quit
+[INFO ] 2023-07-25 11:28:39.725 [TestNG-PoolService-2] CartPage - driver quit
+[INFO ] 2023-07-25 11:28:48.849 [TestNG-PoolService-1] CartPage - driver quit
